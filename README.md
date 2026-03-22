@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on applied ML projects,  data-driven systems and production oriented experimentation.<br>👯 I’m looking to collaborate on startup focused AI/ML projects, applied research, and open-source contributions.<br>🌱 I’m currently learning Deep Learning, model optimization, and end-to-end ML pipelines.<br>💬 Ask me about Machine Learning, applied AI, and getting ML projects production-ready.<br>⚡ Fun fact : I solved a 3x3 rubik's cube in under 8 seconds.<br>
+🔭 I’m currently working on applied ML projects,  data-driven systems and production oriented experimentation.<br>👯 I’m looking to collaborate on startup focused AI/ML projects, applied research, and open-source contributions.<br>🌱 I’m currently learning Deep Learning, model optimization, and end-to-end ML pipelines.<br>⚡ Fun fact : I solved a 3x3 rubik's cube in under 8 seconds.<br>
 
 
 ## 🌐 Socials:
